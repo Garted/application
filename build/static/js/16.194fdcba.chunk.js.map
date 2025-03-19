@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/default/index.js"],"names":["Default"],"mappings":"qHAIeA,UAJC,WACd,OAAO","file":"static/js/16.194fdcba.chunk.js","sourcesContent":["const Default = () => {\r\n  return <div>Default component works!</div>;\r\n};\r\n\r\nexport default Default;\r\n"],"sourceRoot":""}
